@@ -6,13 +6,6 @@ vCard is a fully responsive personal portfolio website, responsive for all devic
 
 
 ## Contact
+[Linkedin](https://www.linkedin.com/in/classyvaibhav/)
 
-If you want to contact me you can reach me at  [Twitter](https://www.twitter.com/codewithsadee).
-
-
-Contact
-If you want to contact me, you can reach me at:
-
-Twitter
-Instagram
-LinkedIn
+[Instagram](https://www.instagram.com/classyvaibhav/)
